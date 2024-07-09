@@ -1,0 +1,15 @@
+{
+    "loginAccessButtonSelector": "div[role=toolbar]",
+    "emailInputSelector": "#login-username",
+    "emailNextButtonSelector": "#login-signin",
+    "passwordInputSelector": "#login-passwd",
+    "signingButtonSelector": "#login-signin",
+    "mailAccessIconSelector": "div[role=toolbar] div:has(input[name=mail_wssid])",
+    "searchbarSelector": "table[role=presentation] input[name=s]",
+    "searchValidationButtonSelector": "table[role=presentation] button[name=srchMail]",
+    "mailRowSelector": "tr[data-test-id=message-list-item]",
+    "aMailSubjectSelector": "div[data-test-id=subject] h2",
+    "aMailSendDateSelector": "div[data-test-id=message-header] div[data-test-id=subject] ~ div span span",
+    "aMailContentSelector": "div[data-test-id=message-body] div[dir=ltr]",
+    "nextMailPageSelector": "div[data-test-id=pagination] span[data-test-id=pageNumber] ~ a"
+}
