@@ -3,7 +3,10 @@
         "projectName": "Billet teliman",
         "technologies": ["PHP - Sabo framework","Twig","Css","Javascript"],
         "visitLink": "https://billetteliman.com/",
-        "projectImagesLinks": ["https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png"],
+        "projectImagesLinks": [
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png"
+        ],
         "projectHtmlDescription": "Site web et application mobile de vente de ticket bus de gares maliennes.",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
         "tasks": ["Réalisation de l'API PHP"],
