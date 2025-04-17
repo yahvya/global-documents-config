@@ -1,9 +1,10 @@
 [
     {
-        "projectName": "Pote&Match",
+        "projectName": "PoteMatch",
         "technologies": ["NestJS","Docker","PostgreSQL","Prisma DB","Sentry"],
         "visitLink": "https://www.potematch.com/",
         "projectHtmlDescription": "Jeu web de paris sur évènement sportif",
+        "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png"
         ],
@@ -35,6 +36,7 @@
         "projectName": "Sabo Framework",
         "technologies": ["PHP","MYSQL"],
         "visitLink": "https://yahvya.github.io/personal-sabo-final/starter-topic.html",
+        "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png"
         ],
