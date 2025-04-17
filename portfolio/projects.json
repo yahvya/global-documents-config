@@ -1,28 +1,65 @@
 [
     {
-        "projectName": "Billet teliman",
-        "technologies": ["PHP - Sabo framework","Twig","Css","Javascript"],
-        "visitLink": "https://billetteliman.com/",
+        "projectName": "Pote&Match",
+        "technologies": ["NestJS","Docker","PostgreSQL","Prisma DB","Sentry"],
+        "visitLink": "https://www.potematch.com/",
+        "projectHtmlDescription": "Jeu web de paris sur évènement sportif",
         "projectImagesLinks": [
-            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
-            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png"
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png"
         ],
-        "projectHtmlDescription": "Site web et application mobile de vente de ticket bus de gares maliennes.",
-        "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
-        "tasks": ["Réalisation de l'API PHP"],
+        "tasks": [
+            "Refonte du Back-end de l'application",
+            "Modélisation de la base de données",
+            "Optimisation de la base de données",
+            "Développement de l'API"
+        ],
+        "year": 2025
+    },
+    {
+        "projectName": "Ununderstood",
+        "technologies": ["Symfony","Javascript","CSS","MYSQL"],
+        "visitLink": null,
+        "projectImagesLinks": [
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/ununderstood/ununderstood.fr_collections_all.png"
+        ],
+        "projectHtmlDescription": "Application e-commerce de vente de vêtements de la marque ununderstood",
+        "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/ununderstood/ununderstood.fr_collections_all.png",
+        "tasks": [
+            "Modélisation de la base de données",
+            "Développement du Back-end",
+            "Développement du Front-end"
+        ],
         "year": 2023
     },
     {
+        "projectName": "Sabo Framework",
+        "technologies": ["PHP","MYSQL"],
+        "visitLink": "https://yahvya.github.io/personal-sabo-final/starter-topic.html",
+        "projectImagesLinks": [
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png"
+        ],
+        "tasks": [
+            "Développement du framework",
+            "Développement du mini ORM"
+        ],
+        "year": 2025,
+        "projectHtmlDescription": "Mini framework PHP"
+    },
+    {
         "projectName": "Billet teliman",
-        "technologies": ["PHP - Sabo framework","Twig","Css","Javascript"],
+        "technologies": ["Symfony","ReactJS","SCSS","Typescript","MYSQL"],
         "visitLink": "https://billetteliman.com/",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
-            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png"
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_register_.png"
         ],
-        "projectHtmlDescription": "Site web et application mobile de vente de ticket bus de gares maliennes.",
+        "projectHtmlDescription": "Application web de vente de ticket bus / train des sociétés maliennes.",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
-        "tasks": ["Réalisation de l'API PHP"],
+        "tasks": [
+            "Réalisation de l'API",
+            "Refonte Front-end React",
+            "Modélisation de la base de données"
+        ],
         "year": 2023
     }
 ]
