@@ -26,7 +26,7 @@
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/ununderstood/ununderstood.fr_collections_all.png"
         ],
-        "projectHtmlDescription": "Application e-commerce de vente de vêtements de la marque ununderstood",
+        "projectHtmlDescription": "Application e-commerce de vente de vêtements de la marque ununderstood. (Ce projet n'est plus maintenu par moi)",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/ununderstood/ununderstood.fr_collections_all.png",
         "tasks": [
             "Modélisation de la base de données à l'aide de looping",
@@ -61,7 +61,7 @@
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_register_.png"
         ],
-        "projectHtmlDescription": "Application web de vente de ticket bus / train des sociétés maliennes.",
+        "projectHtmlDescription": "Application web de vente de ticket bus / train des sociétés maliennes. (Projet encore maintenu)",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
         "tasks": [
             "Réalisation de l'API",
