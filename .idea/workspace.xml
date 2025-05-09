@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b4f4e4-05ff-47b1-9a3e-287aea740852" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/cv-dev.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/cv-dev.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/me.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/me.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/stack-elements-images/electronjs.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/stack-elements-images/electronjs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/stack-elements-images/expressjs.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/stack-elements-images/expressjs.png" afterDir="false" />
+    <list default="true" id="65b4f4e4-05ff-47b1-9a3e-287aea740852" name="Changes" comment="MODIFY portfolio my image&#10;MODIFY portfolio cv">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yahvya"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yahvya/global-documents-config",
+    "accountId": "133cbe4d-ba9c-495e-bf71-8b4370b658b5"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$USER_HOME$/scoop/shims/php.exe" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -69,11 +80,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746788405229</updated>
-      <workItem from="1746788406485" duration="503000" />
+      <workItem from="1746788406485" duration="836000" />
     </task>
+    <task id="LOCAL-00001" summary="MODIFY portfolio my image&#10;MODIFY portfolio cv">
+      <option name="closed" value="true" />
+      <created>1746789015182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746789015182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MODIFY portfolio my image&#10;MODIFY portfolio cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="MODIFY portfolio my image&#10;MODIFY portfolio cv" />
   </component>
 </project>

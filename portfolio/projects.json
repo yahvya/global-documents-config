@@ -1,18 +1,21 @@
 [
     {
         "projectName": "PoteMatch",
-        "technologies": ["NestJS","Docker","PostgreSQL","Prisma DB","Sentry"],
+        "technologies": ["NestJS","Docker","PostgreSQL","Prisma DB","Sentry","Jest","Notion"],
         "visitLink": "https://www.potematch.com/",
-        "projectHtmlDescription": "Jeu web de paris sur évènement sportif",
+        "projectHtmlDescription": "Jeu web de paris sur évènements sportifs",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png"
         ],
         "tasks": [
             "Refonte du Back-end de l'application",
-            "Modélisation de la base de données",
+            "Modélisation de la base de données à l'aide de pgModeler",
             "Optimisation de la base de données",
-            "Développement de l'API"
+            "Développement de l'API",
+            "Écriture des tests",
+            "Déploiement Google cloud",
+            "Documentation Notion du projet"
         ],
         "year": 2025
     },
@@ -26,30 +29,33 @@
         "projectHtmlDescription": "Application e-commerce de vente de vêtements de la marque ununderstood",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/ununderstood/ununderstood.fr_collections_all.png",
         "tasks": [
-            "Modélisation de la base de données",
+            "Modélisation de la base de données à l'aide de looping",
             "Développement du Back-end",
-            "Développement du Front-end"
+            "Développement du Front-end",
+            "Intégration de modules de paiement",
+            "Déploiement sur hébergeur"
         ],
         "year": 2023
     },
     {
         "projectName": "Sabo Framework",
-        "technologies": ["PHP","MYSQL"],
+        "technologies": ["PHP"],
         "visitLink": "https://yahvya.github.io/personal-sabo-final/starter-topic.html",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png"
         ],
         "tasks": [
-            "Développement du framework",
-            "Développement du mini ORM"
+            "Développement du mini framework PHP",
+            "Développement d'un ORM intégré",
+            "Réalisation du site de documentation"
         ],
         "year": 2025,
         "projectHtmlDescription": "Mini framework PHP"
     },
     {
         "projectName": "Billet teliman",
-        "technologies": ["Symfony","ReactJS","SCSS","Typescript","MYSQL"],
+        "technologies": ["Symfony","ReactJS","Tailwind","SCSS","Typescript","PostgreSQL"],
         "visitLink": "https://billetteliman.com/",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
@@ -59,8 +65,8 @@
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
         "tasks": [
             "Réalisation de l'API",
-            "Refonte Front-end React",
-            "Modélisation de la base de données"
+            "Refonte Front-end ReactJS",
+            "Modélisation de la base de données à l'aide de DbSchema"
         ],
         "year": 2023
     }
