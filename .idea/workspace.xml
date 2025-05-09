@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b4f4e4-05ff-47b1-9a3e-287aea740852" name="Changes" comment="MODIFY portfolio my image&#10;MODIFY portfolio cv">
+    <list default="true" id="65b4f4e4-05ff-47b1-9a3e-287aea740852" name="Changes" comment="MODIFY projects description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/projects.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746788405229</updated>
-      <workItem from="1746788406485" duration="836000" />
+      <workItem from="1746788406485" duration="1814000" />
     </task>
     <task id="LOCAL-00001" summary="MODIFY portfolio my image&#10;MODIFY portfolio cv">
       <option name="closed" value="true" />
@@ -90,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746789015182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MODIFY projects description">
+      <option name="closed" value="true" />
+      <created>1746789476763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746789476763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MODIFY projects description">
+      <option name="closed" value="true" />
+      <created>1746789702007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746789702007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MODIFY portfolio my image&#10;MODIFY portfolio cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="MODIFY portfolio my image&#10;MODIFY portfolio cv" />
+    <MESSAGE value="MODIFY projects description" />
+    <option name="LAST_COMMIT_MESSAGE" value="MODIFY projects description" />
   </component>
 </project>
