@@ -38,12 +38,12 @@
         "year": 2024
     },
     {
-        "projectName": "Sabo Framework",
+        "projectName": "Eagle Framework",
         "technologies": ["PHP"],
-        "visitLink": "https://yahvya.github.io/personal-sabo-framework-doc/starter-topic.html",
-        "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png",
+        "visitLink": "https://yahvya.github.io/personal-eagle-framework-doc/starter-topic.html",
+        "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/eagle-framework/eagle.png",
         "projectImagesLinks": [
-            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/sabo-framework/sabo.png"
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/eagle-framework/eagle.png"
         ],
         "tasks": [
             "Développement du mini framework PHP",
