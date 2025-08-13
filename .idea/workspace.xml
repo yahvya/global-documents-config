@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b4f4e4-05ff-47b1-9a3e-287aea740852" name="Changes" comment="MODIFY projects description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65b4f4e4-05ff-47b1-9a3e-287aea740852" name="Changes" comment="MODIFY billet teliman image" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746788405229</updated>
-      <workItem from="1746788406485" duration="1814000" />
+      <workItem from="1746788406485" duration="2271000" />
     </task>
     <task id="LOCAL-00001" summary="MODIFY portfolio my image&#10;MODIFY portfolio cv">
       <option name="closed" value="true" />
@@ -105,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746789702007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MODIFY billet teliman image">
+      <option name="closed" value="true" />
+      <created>1746790493541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746790493541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MODIFY portfolio my image&#10;MODIFY portfolio cv" />
     <MESSAGE value="MODIFY projects description" />
-    <option name="LAST_COMMIT_MESSAGE" value="MODIFY projects description" />
+    <MESSAGE value="MODIFY billet teliman image" />
+    <option name="LAST_COMMIT_MESSAGE" value="MODIFY billet teliman image" />
   </component>
 </project>
