@@ -1,7 +1,7 @@
 [
     {
         "projectName": "PoteMatch",
-        "technologies": ["NestJS","Docker","PostgreSQL","Prisma DB","Sentry","Jest","Notion"],
+        "technologies": ["NestJS","Docker","PostgreSQL","Prisma DB","Sentry","Jest","Retool"],
         "visitLink": "https://www.potematch.com/",
         "projectHtmlDescription": "Jeu web de paris sur évènements sportifs",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png",
@@ -9,13 +9,13 @@
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/pm/pm.png"
         ],
         "tasks": [
-            "Refonte du Back-end de l'application",
-            "Modélisation de la base de données à l'aide de pgModeler",
-            "Optimisation de la base de données",
-            "Développement de l'API",
-            "Écriture des tests",
-            "Déploiement Google cloud",
-            "Documentation Notion du projet"
+            "Refonte et évolution du back-end avec NestJS",
+            "Conception de nouvelles fonctionnalités critiques",
+            "Mise en place de tests automatisés",
+            "Gestion et optimisation de la base de données PostgreSQL",
+            "Implémentation d’un pipeline CI/CD automatisant tests",
+            "Documentation et déploiement",
+            "Mise en place et maintenance de l’infrastructure Docker ainsi que d’outils internes(dashboard Retool)"
         ],
         "year": 2025
     },
@@ -54,19 +54,23 @@
         "projectHtmlDescription": "Mini framework PHP"
     },
     {
-        "projectName": "Billet teliman",
-        "technologies": ["Symfony","ReactJS","Tailwind","SCSS","Typescript","PostgreSQL"],
+        "projectName": "Billet Teliman",
+        "technologies": ["NextJS","Tailwind","SCSS","Typescript","PostgreSQL","Prisma","Docker","Retool"],
         "visitLink": "https://billetteliman.com/",
         "projectImagesLinks": [
             "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
-            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_register_.png"
+            "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_login.png"
         ],
         "projectHtmlDescription": "Application web de vente de ticket bus / train des sociétés maliennes. (Projet encore maintenu)",
         "previewImageLink": "https://yahvya.github.io/global-documents-config/portfolio/projects-images/billetteliman/billetteliman.com_.png",
         "tasks": [
-            "Réalisation de l'API",
-            "Refonte Front-end ReactJS",
-            "Modélisation de la base de données à l'aide de DbSchema"
+            "Conception et développement initial de l’API en PHP",
+            "Modélisation et optimisation de la base de données MySQL",
+            "Évolution du projet avec migration complète vers Next.js",
+            "Intégration de Prisma",
+            "Mise en place d’un dashboard de gestion",
+            "Intervention sur l’infrastructure (Docker, hébergement)",
+            "Intégration de services externes (stockage, monitoring)"
         ],
         "year": 2023
     }
